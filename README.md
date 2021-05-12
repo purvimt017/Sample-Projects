@@ -1,2 +1,2 @@
 # Sample-Projects-Portfolio
-A portfolio of projects made up of SQL queries, Python Scripts and PBI Reports from organizations that I have worked for. 
+A portfolio of projects made up of SQL queries, Python Scripts, Machine Learning Projects and PBI Reports I have worked on. 
