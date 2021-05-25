@@ -4,6 +4,10 @@ Created on Thu Jan 28 09:23:10 2021
 
 @author: v-mpurvis
 """
+# Downloads today's players for all slates from fantasy cruncher, downloads yesterday's fantasy scores from fantasy cruncher, downloads player's projected mins 
+# from BasketballMonster
+
+
 
 #import pandas as pd
 from selenium import webdriver
