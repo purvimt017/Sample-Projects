@@ -4,6 +4,9 @@ Created on Wed Feb 10 15:01:10 2021
 
 @author: v-mpurvis
 """
+
+# Downloads latest injury tweets from fantasylabs on twitter
+
 import tweepy
 import pandas as pd
 import time
